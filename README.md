@@ -15,7 +15,7 @@ The **Monkey King** has escaped from **hell**! The gods have punished him and **
 ## 🎥 Walkthrough Video  
 
 Watch a full walkthrough of the game:  
-[![Walkthrough](https://img.youtube.com/vi/VzKrcQnfAv0/0.jpg)](https://www.youtube.com/watch?v=VzKrcQnfAv0)  
+[![Walkthrough](https://img.youtube.com/vi/XrxTVaWyTK0/0.jpg)](https://www.youtube.com/watch?v=XrxTVaWyTK0)  
 
 ## 🛠️ Features  
 
